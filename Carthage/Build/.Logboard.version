@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.1.5",
+  "Mac" : [
+    {
+      "name" : "Logboard",
+      "hash" : "f8cf560aac3594084b075f502df55857ad5b89f64935a3f3a2ebb34c2c977ac3"
+    }
+  ]
+}

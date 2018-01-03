@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.8.4",
+  "Mac" : [
+    {
+      "name" : "HaishinKit",
+      "hash" : "edce5d8478f4e642284d1ecf91f17fb421b29ba9d956d64c288eb047dd2c4fd0"
+    }
+  ]
+}
